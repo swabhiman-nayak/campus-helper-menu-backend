@@ -1,0 +1,6 @@
+{
+  "menu": [
+    { "id": "aloo_paratha", "name": "Aloo Paratha", "price": 25, "isVeg": true },
+    { "id": "curd", "name": "Curd", "price": 10, "isVeg": true }
+  ]
+}
