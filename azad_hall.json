@@ -4,6 +4,6 @@
     { "id": "pbm", "name": "Paneer Butter Masala", "price": 80, "isVeg": true },
     { "id": "veg_pulav", "name": "Veg Pulav", "price": 60, "isVeg": true },
     { "id": "tea", "name": "Special Tea", "price": 10, "isVeg": true },
-    { "id": "chicken_curry", "name": "Chicken Curry", "price": 120, "isVeg": false }
+    { "id": "chicken_currrrrrry", "name": "Chicken Curry", "price": 120, "isVeg": false }
   ]
 }
