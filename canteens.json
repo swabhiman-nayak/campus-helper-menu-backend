@@ -7,16 +7,22 @@
       "rating": 4.2
     },
     {
-      "id": "hjb_canteen",
-      "name": "HJB Canteen",
-      "status": "Closed",
-      "rating": 4.8
-    },
-    {
       "id": "llr_canteen",
       "name": "LLR Canteen",
       "status": "Open",
       "rating": 4.7
+    },
+    {
+      "id": "vs_canteen",
+      "name": "VS Canteen",
+      "status": "Open",
+      "rating": 3.9
+    },
+    {
+      "id": "hjb_canteen",
+      "name": "HJB Canteen",
+      "status": "Closed",
+      "rating": 4.8
     },
     {
       "id": "rk_hall",
@@ -29,12 +35,7 @@
       "name": "RP Canteen",
       "status": "Closed",
       "rating": 3.1
-    },
-    {
-      "id": "vs_canteen",
-      "name": "VS Canteen",
-      "status": "Open",
-      "rating": 3.9
     }
+    
   ]
 }
