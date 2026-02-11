@@ -1,1 +1,106 @@
-
+{
+  "sections": [
+    {
+      "title": "Rolls & Wraps (Non Veg)",
+      "items": [
+        { "id": "egg_roll", "name": "Egg Roll", "price": 55, "isVeg": false },
+        { "id": "special_egg_roll", "name": "Special Egg Roll", "price": 70, "isVeg": false },
+        { "id": "chicken_roll", "name": "Chicken Roll", "price": 80, "isVeg": false },
+        { "id": "special_chicken_roll", "name": "Special Chicken Roll", "price": 95, "isVeg": false },
+        { "id": "egg_chicken_roll", "name": "Egg Chicken Roll", "price": 90, "isVeg": false },
+        { "id": "special_egg_chicken_roll", "name": "Special Egg Chicken Roll", "price": 105, "isVeg": false },
+        { "id": "super_special_roll", "name": "Super Special Roll", "price": 110, "isVeg": false },
+        { "id": "kati_roll", "name": "Kati Roll", "price": 110, "isVeg": false },
+        { "id": "chicken_shawarma", "name": "Chicken Shawarma", "price": 90, "isVeg": false },
+        { "id": "special_chicken_shawarma", "name": "Special Chicken Shawarma", "price": 110, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Burgers",
+      "items": [
+        { "id": "egg_burger", "name": "Egg Burger", "price": 80, "isVeg": false },
+        { "id": "special_egg_burger", "name": "Special Egg Burger", "price": 100, "isVeg": false },
+        { "id": "chicken_burger", "name": "Chicken Burger", "price": 90, "isVeg": false },
+        { "id": "special_chicken_burger", "name": "Special Chicken Burger", "price": 110, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Special Starters (Veg)",
+      "items": [
+        { "id": "paneer_tikka", "name": "Paneer Tikka", "price": 100, "isVeg": true },
+        { "id": "paneer_65", "name": "Paneer 65", "price": 100, "isVeg": true },
+        { "id": "paneer_manchurian", "name": "Paneer Manchurian", "price": 100, "isVeg": true },
+        { "id": "chilli_paneer", "name": "Chilli Paneer", "price": 100, "isVeg": true },
+        { "id": "crispy_babycorn", "name": "Crispy Babycorn", "price": 120, "isVeg": true },
+        { "id": "crispy_mushroom", "name": "Crispy Mushroom", "price": 120, "isVeg": true },
+        { "id": "chilli_mushroom", "name": "Chilli Mushroom", "price": 120, "isVeg": true },
+        { "id": "french_fries", "name": "French Fries", "price": 100, "isVeg": true },
+        { "id": "honey_chilli_potato", "name": "Honey Chilli Potato", "price": 120, "isVeg": true },
+        { "id": "chilli_gobi", "name": "Chilli Gobi", "price": 120, "isVeg": true }
+      ]
+    },
+    {
+      "title": "Special Starters (Non Veg)",
+      "items": [
+        { "id": "chicken_tikka", "name": "Chicken Tikka", "price": 120, "isVeg": false },
+        { "id": "chicken_lollipop", "name": "Chicken Lollipop", "price": 120, "isVeg": false },
+        { "id": "tandoori_chicken", "name": "Tandoori Chicken", "price": 100, "isVeg": false },
+        { "id": "chicken_65", "name": "Chicken 65", "price": 100, "isVeg": false },
+        { "id": "chicken_manchurian", "name": "Chicken Manchurian", "price": 100, "isVeg": false },
+        { "id": "chicken_chilli", "name": "Chilli Chicken", "price": 100, "isVeg": false },
+        { "id": "chicken_pakora", "name": "Chicken Pakora", "price": 120, "isVeg": false },
+        { "id": "chicken_kabab", "name": "Chicken Kabab", "price": 120, "isVeg": false },
+        { "id": "chicken_seekh_kabab", "name": "Chicken Seekh Kabab", "price": 200, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Soups",
+      "items": [
+        { "id": "veg_clear_soup", "name": "Veg Clear Soup", "price": 45, "isVeg": true },
+        { "id": "veg_hot_sour_soup", "name": "Veg Hot & Sour Soup", "price": 45, "isVeg": true },
+        { "id": "veg_sweetcorn_soup", "name": "Veg Sweetcorn Soup", "price": 50, "isVeg": true },
+        { "id": "veg_manchow_soup", "name": "Veg Manchow Soup", "price": 50, "isVeg": true },
+        { "id": "egg_clear_soup", "name": "Egg Clear Soup", "price": 50, "isVeg": false },
+        { "id": "egg_hot_sour_soup", "name": "Egg Hot & Sour Soup", "price": 50, "isVeg": false },
+        { "id": "chicken_clear_soup", "name": "Chicken Clear Soup", "price": 60, "isVeg": false },
+        { "id": "chicken_hot_sour_soup", "name": "Chicken Hot & Sour Soup", "price": 60, "isVeg": false },
+        { "id": "mix_manchow_soup", "name": "Mix Manchow Soup", "price": 75, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Veg Main Course",
+      "items": [
+        { "id": "dal_fry", "name": "Dal Fry", "price": 70, "isVeg": true },
+        { "id": "dal_makhani", "name": "Dal Makhani", "price": 75, "isVeg": true },
+        { "id": "chana_masala", "name": "Chana Masala", "price": 70, "isVeg": true },
+        { "id": "mix_veg", "name": "Mix Veg", "price": 75, "isVeg": true },
+        { "id": "aloo_dum", "name": "Aloo Dum", "price": 80, "isVeg": true },
+        { "id": "aloo_matar", "name": "Aloo Matar", "price": 80, "isVeg": true },
+        { "id": "veg_kolhapuri", "name": "Veg Kolhapuri", "price": 100, "isVeg": true }
+      ]
+    },
+    {
+      "title": "Special Chicken",
+      "items": [
+        { "id": "chicken_butter_masala", "name": "Chicken Butter Masala", "price": 120, "isVeg": false },
+        { "id": "chicken_tikka_masala", "name": "Chicken Tikka Masala", "price": 100, "isVeg": false },
+        { "id": "chicken_hyderabadi", "name": "Chicken Hyderabadi", "price": 100, "isVeg": false },
+        { "id": "chicken_kolhapuri", "name": "Chicken Kolhapuri", "price": 100, "isVeg": false },
+        { "id": "chicken_kadai", "name": "Chicken Kadai", "price": 100, "isVeg": false },
+        { "id": "chicken_masala", "name": "Chicken Masala", "price": 100, "isVeg": false },
+        { "id": "chicken_angara", "name": "Chicken Angara", "price": 110, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Special Paneer",
+      "items": [
+        { "id": "paneer_butter_masala", "name": "Paneer Butter Masala", "price": 120, "isVeg": true },
+        { "id": "paneer_kadai", "name": "Paneer Kadai", "price": 100, "isVeg": true },
+        { "id": "paneer_hyderabadi", "name": "Paneer Hyderabadi", "price": 90, "isVeg": true },
+        { "id": "paneer_kolhapuri", "name": "Paneer Kolhapuri", "price": 90, "isVeg": true },
+        { "id": "paneer_masala", "name": "Paneer Masala", "price": 110, "isVeg": true },
+        { "id": "paneer_angara", "name": "Paneer Angara", "price": 110, "isVeg": true }
+      ]
+    }
+  ]
+}
