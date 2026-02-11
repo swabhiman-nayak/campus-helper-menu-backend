@@ -1,6 +1,89 @@
 {
-  "menu": [
-    { "id": "egg_roll", "name": "Egg Roll", "price": 30, "isVeg": false },
-    { "id": "chai", "name": "Chai", "price": 8, "isVeg": true }
+  "sections": [
+    {
+      "title": "Roti Items",
+      "items": [
+        { "id": "plain_roti", "name": "Plain Roti", "price": 6, "isVeg": true },
+        { "id": "plain_paratha", "name": "Plain Paratha", "price": 10, "isVeg": true },
+        { "id": "lachha_paratha", "name": "Lachha Paratha", "price": 19, "isVeg": true },
+        { "id": "alu_paratha", "name": "Alu Paratha", "price": 17, "isVeg": true },
+        { "id": "paneer_paratha", "name": "Paneer Paratha", "price": 22, "isVeg": true }
+      ]
+    },
+    {
+      "title": "Veg Main Course",
+      "items": [
+        { "id": "paneer_masala", "name": "Paneer Masala", "price": 67, "isVeg": true },
+        { "id": "alu_dum", "name": "Alu Dum", "price": 45, "isVeg": true },
+        { "id": "kashmiri_alu_dum", "name": "Kashmiri Alu Dum", "price": 47, "isVeg": true },
+        { "id": "alu_jira", "name": "Alu Jira", "price": 37, "isVeg": true },
+        { "id": "chana_masala", "name": "Chana Masala", "price": 42, "isVeg": true },
+        { "id": "dal_fry", "name": "Dal Fry", "price": 37, "isVeg": true },
+        { "id": "green_peas_masala", "name": "Green Peas Masala", "price": 52, "isVeg": true },
+        { "id": "vendi_fry", "name": "Vendi Fry", "price": 42, "isVeg": true },
+        { "id": "tomato_fry", "name": "Tomato Fry", "price": 40, "isVeg": true },
+        { "id": "paneer_butter_masala", "name": "Paneer Butter Masala", "price": 67, "isVeg": true },
+        { "id": "mix_veg", "name": "Mix Veg", "price": 52, "isVeg": true }
+      ]
+    },
+    {
+      "title": "Chicken Items",
+      "items": [
+        { "id": "chicken_kasa", "name": "Chicken Kasa (3 pcs)", "price": 72, "isVeg": false },
+        { "id": "chicken_dopiyaza", "name": "Chicken Dopiyaza (3 pcs)", "price": 72, "isVeg": false },
+        { "id": "chicken_tikka_masala", "name": "Chicken Tikka Masala (5 pcs)", "price": 84, "isVeg": false },
+        { "id": "chicken_patiala", "name": "Chicken Patiala (5 pcs)", "price": 132, "isVeg": false },
+        { "id": "chicken_butter_masala", "name": "Chicken Butter Masala (3 pcs)", "price": 72, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Starter",
+      "items": [
+        { "id": "gobi_lollipop", "name": "Gobi Lollipop (4 pcs)", "price": 50, "isVeg": true },
+        { "id": "gobi_manchurian", "name": "Gobi Manchurian (5 pcs)", "price": 62, "isVeg": true },
+        { "id": "paneer_65", "name": "Paneer 65 (5 pcs)", "price": 65, "isVeg": true },
+        { "id": "finger_chips", "name": "Finger Chips", "price": 34, "isVeg": true },
+        { "id": "chicken_lollipop", "name": "Chicken Lollipop (3 pcs)", "price": 78, "isVeg": false },
+        { "id": "chicken_65", "name": "Chicken 65 (5 pcs)", "price": 80, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Noodles",
+      "items": [
+        { "id": "veg_noodles", "name": "Veg Noodles", "price": 37, "isVeg": true },
+        { "id": "egg_noodles", "name": "Egg Noodles", "price": 44, "isVeg": false },
+        { "id": "paneer_noodles", "name": "Paneer Noodles", "price": 52, "isVeg": true },
+        { "id": "chicken_noodles", "name": "Chicken Noodles", "price": 62, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Rice",
+      "items": [
+        { "id": "veg_fried_rice", "name": "Veg Fried Rice", "price": 44, "isVeg": true },
+        { "id": "egg_fried_rice", "name": "Egg Fried Rice", "price": 52, "isVeg": false },
+        { "id": "chicken_fried_rice", "name": "Chicken Fried Rice", "price": 54, "isVeg": false },
+        { "id": "paneer_fried_rice", "name": "Paneer Fried Rice", "price": 54, "isVeg": true }
+      ]
+    },
+    {
+      "title": "Pasta",
+      "items": [
+        { "id": "white_sauce_pasta", "name": "White Sauce Pasta", "price": 70, "isVeg": true },
+        { "id": "red_sauce_pasta", "name": "Red Sauce Pasta", "price": 70, "isVeg": true },
+        { "id": "egg_white_pasta", "name": "Egg White Sauce Pasta", "price": 80, "isVeg": false },
+        { "id": "chicken_red_pasta", "name": "Chicken Red Sauce Pasta", "price": 90, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Dosa & Uttapam",
+      "items": [
+        { "id": "plain_dosa", "name": "Plain Dosa", "price": 45, "isVeg": true },
+        { "id": "masala_dosa", "name": "Masala Dosa", "price": 60, "isVeg": true },
+        { "id": "paneer_dosa", "name": "Paneer Dosa", "price": 70, "isVeg": true },
+        { "id": "chicken_dosa", "name": "Chicken Dosa", "price": 85, "isVeg": false },
+        { "id": "plain_uttapam", "name": "Plain Uttapam", "price": 45, "isVeg": true },
+        { "id": "onion_uttapam", "name": "Onion Uttapam", "price": 55, "isVeg": true }
+      ]
+    }
   ]
 }
