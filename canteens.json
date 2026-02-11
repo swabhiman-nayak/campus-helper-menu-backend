@@ -9,9 +9,15 @@
     {
       "id": "rk_hall",
       "name": "RK Hall",
-      "status": "Closed",
+      "status": "Open",
       "rating": 4.5
     },
+    {
+      "id": "rp_canteen",
+      "name": "VS Canteen",
+      "status": "Closed",
+      "rating": 3.1
+    }
     {
       "id": "vs_canteen",
       "name": "VS Canteen",
