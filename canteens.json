@@ -14,7 +14,7 @@
     },
     {
       "id": "rp_canteen",
-      "name": "VS Canteen",
+      "name": "RP Canteen",
       "status": "Closed",
       "rating": 3.1
     },
@@ -23,6 +23,6 @@
       "name": "VS Canteen",
       "status": "Open",
       "rating": 3.9
-    },
+    }
   ]
 }
