@@ -1,24 +1,116 @@
 {
   "sections": [
     {
-      "title": "Main Course",
+      "title": "Fried Rice",
       "items": [
-        { "id": "pbm", "name": "Paneer Butter Masala", "price": 80, "isVeg": true },
-        { "id": "chicken", "name": "Chicken Curry", "price": 120, "isVeg": false }
+        { "id": "veg_fried_rice", "name": "Veg Fried Rice", "price": 50, "isVeg": true },
+        { "id": "egg_fried_rice", "name": "Egg Fried Rice", "price": 60, "isVeg": false },
+        { "id": "chicken_fried_rice", "name": "Chicken Fried Rice", "price": 75, "isVeg": false },
+        { "id": "mix_fried_rice", "name": "Mix Fried Rice", "price": 90, "isVeg": false },
+        { "id": "paneer_fried_rice", "name": "Paneer Fried Rice", "price": 60, "isVeg": true }
       ]
     },
     {
-      "title": "Snacks",
+      "title": "Masala Rice",
       "items": [
-        { "id": "samosa", "name": "Samosa", "price": 10, "isVeg": true }
+        { "id": "veg_masala_rice", "name": "Veg Masala Rice", "price": 65, "isVeg": true },
+        { "id": "paneer_masala_rice", "name": "Paneer Masala Rice", "price": 75, "isVeg": true },
+        { "id": "egg_masala_rice", "name": "Egg Masala Rice", "price": 75, "isVeg": false },
+        { "id": "chicken_masala_rice", "name": "Chicken Masala Rice", "price": 85, "isVeg": false },
+        { "id": "mix_masala_rice", "name": "Mix Masala Rice", "price": 95, "isVeg": false }
       ]
     },
     {
-      "title": "Beverages",
+      "title": "Dheru Rice",
       "items": [
-        { "id": "tea", "name": "Tea", "price": 10, "isVeg": true }
+        { "id": "veg_dheru_rice", "name": "Veg Dheru Rice", "price": 70, "isVeg": true },
+        { "id": "paneer_dheru_rice", "name": "Paneer Dheru Rice", "price": 80, "isVeg": true },
+        { "id": "egg_dheru_rice", "name": "Egg Dheru Rice", "price": 85, "isVeg": false },
+        { "id": "chicken_dheru_rice", "name": "Chicken Dheru Rice", "price": 90, "isVeg": false },
+        { "id": "mix_dheru_rice", "name": "Mix Dheru Rice", "price": 100, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Basmat Rice",
+      "items": [
+        { "id": "plain_rice", "name": "Plain Rice", "price": 40, "isVeg": true },
+        { "id": "jeera_rice", "name": "Jeera Rice", "price": 45, "isVeg": true },
+        { "id": "lemon_rice", "name": "Lemon Rice", "price": 45, "isVeg": true },
+        { "id": "tomato_rice", "name": "Tomato Rice", "price": 50, "isVeg": true },
+        { "id": "curd_rice", "name": "Curd Rice", "price": 50, "isVeg": true }
+      ]
+    },
+    {
+      "title": "Sezwan Rice",
+      "items": [
+        { "id": "veg_sezwan_rice", "name": "Veg Sezwan Rice", "price": 65, "isVeg": true },
+        { "id": "paneer_sezwan_rice", "name": "Paneer Sezwan Rice", "price": 70, "isVeg": true },
+        { "id": "egg_sezwan_rice", "name": "Egg Sezwan Rice", "price": 65, "isVeg": false },
+        { "id": "chicken_sezwan_rice", "name": "Chicken Sezwan Rice", "price": 80, "isVeg": false },
+        { "id": "mix_sezwan_rice", "name": "Mix Sezwan Rice", "price": 95, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Veg Main Course",
+      "items": [
+        { "id": "mix_veg", "name": "Mix Veg", "price": 80, "isVeg": true },
+        { "id": "chilly_chana", "name": "Chilly Chana", "price": 80, "isVeg": true },
+        { "id": "chana_masala", "name": "Chana Masala", "price": 45, "isVeg": true },
+        { "id": "green_peas_masala", "name": "Green Peas Masala", "price": 50, "isVeg": true },
+        { "id": "dal_makhani", "name": "Dal Makhani", "price": 50, "isVeg": true },
+        { "id": "dal_fry", "name": "Dal Fry", "price": 35, "isVeg": true },
+        { "id": "aloo_dum", "name": "Aloo Dum", "price": 50, "isVeg": true },
+        { "id": "aloo_matar", "name": "Aloo Matar", "price": 45, "isVeg": true },
+        { "id": "aloo_gobi", "name": "Aloo Gobi", "price": 45, "isVeg": true }
+      ]
+    },
+    {
+      "title": "Chicken (Non Veg)",
+      "items": [
+        { "id": "chicken_kosha", "name": "Chicken Kosha", "price": 100, "isVeg": false },
+        { "id": "kadai_chicken", "name": "Kadai Chicken", "price": 130, "isVeg": false },
+        { "id": "chicken_curry", "name": "Chicken Curry", "price": 90, "isVeg": false },
+        { "id": "chicken_masala", "name": "Chicken Masala", "price": 100, "isVeg": false },
+        { "id": "chicken_bharta", "name": "Chicken Bharta", "price": 150, "isVeg": false },
+        { "id": "chicken_butter_masala", "name": "Chicken Butter Masala", "price": 95, "isVeg": false },
+        { "id": "chilli_chicken", "name": "Chilli Chicken", "price": 110, "isVeg": false },
+        { "id": "garlic_chicken", "name": "Garlic Chicken", "price": 110, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Rolls",
+      "items": [
+        { "id": "veg_roll", "name": "Veg Roll", "price": 25, "isVeg": true },
+        { "id": "paneer_roll", "name": "Paneer Roll", "price": 35, "isVeg": true },
+        { "id": "egg_roll", "name": "Egg Roll", "price": 35, "isVeg": false },
+        { "id": "chicken_roll", "name": "Chicken Roll", "price": 40, "isVeg": false },
+        { "id": "egg_chicken_roll", "name": "Egg Chicken Roll", "price": 50, "isVeg": false },
+        { "id": "paneer_cheese_roll", "name": "Paneer Cheese Roll", "price": 50, "isVeg": true },
+        { "id": "chicken_cheese_roll", "name": "Chicken Cheese Roll", "price": 55, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Dosa",
+      "items": [
+        { "id": "plain_dosa", "name": "Plain Dosa", "price": 25, "isVeg": true },
+        { "id": "butter_dosa", "name": "Butter Dosa", "price": 30, "isVeg": true },
+        { "id": "onion_dosa", "name": "Onion Dosa", "price": 30, "isVeg": true },
+        { "id": "masala_dosa", "name": "Masala Dosa", "price": 40, "isVeg": true },
+        { "id": "egg_dosa", "name": "Egg Dosa", "price": 35, "isVeg": false },
+        { "id": "paneer_masala_dosa", "name": "Paneer Masala Dosa", "price": 60, "isVeg": true }
+      ]
+    },
+    {
+      "title": "Soups",
+      "items": [
+        { "id": "veg_hot_sour_soup", "name": "Veg Hot & Sour Soup", "price": 35, "isVeg": true },
+        { "id": "veg_noodle_soup", "name": "Veg Noodle Soup", "price": 35, "isVeg": true },
+        { "id": "tomato_soup", "name": "Tomato Soup", "price": 35, "isVeg": true },
+        { "id": "chicken_hot_sour_soup", "name": "Chicken Hot & Sour Soup", "price": 45, "isVeg": false },
+        { "id": "chicken_noodle_soup", "name": "Chicken Noodle Soup", "price": 50, "isVeg": false }
       ]
     }
   ]
 }
+
 
