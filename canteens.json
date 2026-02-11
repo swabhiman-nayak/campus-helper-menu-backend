@@ -2,37 +2,37 @@
   "canteens": [
     {
       "id": "azad_hall",
-      "name": "AZAD N.Canteen",
+      "name": "AZAD Canteen",
       "status": "Open",
       "rating": 4.8
     },
     {
       "id": "hjb_canteen",
-      "name": "HJB N.Canteen",
+      "name": "HJB Canteen",
       "status": "Open",
       "rating": 4.8
     },
     {
       "id": "llr_canteen",
-      "name": "LLR N.Canteen",
+      "name": "LLR Canteen",
       "status": "Open",
       "rating": 4.8
     },
     {
       "id": "rk_hall",
-      "name": "RK N.Canteen",
-      "status": "Open",
+      "name": "RK Canteen",
+      "status": "Closed",
       "rating": 4.5
     },
     {
       "id": "rp_canteen",
-      "name": "RP N.Canteen",
+      "name": "RP Canteen",
       "status": "Closed",
       "rating": 3.1
     },
     {
       "id": "vs_canteen",
-      "name": "VS N.Canteen",
+      "name": "VS Canteen",
       "status": "Open",
       "rating": 3.9
     }
