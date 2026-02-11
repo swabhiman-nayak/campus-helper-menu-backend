@@ -1,0 +1,22 @@
+{
+  "canteens": [
+    {
+      "id": "azad_hall",
+      "name": "AZAD Hall",
+      "status": "Open",
+      "rating": 4.8
+    },
+    {
+      "id": "rk_hall",
+      "name": "RK Hall",
+      "status": "Closed",
+      "rating": 4.5
+    },
+    {
+      "id": "vs_canteen",
+      "name": "VS Canteen",
+      "status": "Open",
+      "rating": 3.9
+    }
+  ]
+}
