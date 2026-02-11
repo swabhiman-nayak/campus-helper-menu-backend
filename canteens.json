@@ -4,7 +4,7 @@
       "id": "azad_hall",
       "name": "AZAD Canteen",
       "status": "Open",
-      "rating": 4.8
+      "rating": 4.2
     },
     {
       "id": "hjb_canteen",
@@ -16,13 +16,13 @@
       "id": "llr_canteen",
       "name": "LLR Canteen",
       "status": "Open",
-      "rating": 4.8
+      "rating": 4.7
     },
     {
       "id": "rk_hall",
       "name": "RK Canteen",
       "status": "Closed",
-      "rating": 4.5
+      "rating": 4.1
     },
     {
       "id": "rp_canteen",
