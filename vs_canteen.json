@@ -1,0 +1,6 @@
+{
+  "menu": [
+    { "id": "egg_roll", "name": "Egg Roll", "price": 30, "isVeg": false },
+    { "id": "chai", "name": "Chai", "price": 8, "isVeg": true }
+  ]
+}
