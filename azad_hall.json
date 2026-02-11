@@ -3,41 +3,22 @@
     {
       "title": "Main Course",
       "items": [
-        {
-          "id": "pbm",
-          "name": "Paneer Butter Masala",
-          "price": 80,
-          "isVeg": true
-        },
-        {
-          "id": "chicken_curry",
-          "name": "Chicken Curry",
-          "price": 120,
-          "isVeg": false
-        }
+        { "id": "pbm", "name": "Paneer Butter Masala", "price": 80, "isVeg": true },
+        { "id": "chicken", "name": "Chicken Curry", "price": 120, "isVeg": false }
       ]
     },
     {
       "title": "Snacks",
       "items": [
-        {
-          "id": "samosa",
-          "name": "Samosa",
-          "price": 10,
-          "isVeg": true
-        }
+        { "id": "samosa", "name": "Samosa", "price": 10, "isVeg": true }
       ]
     },
     {
       "title": "Beverages",
       "items": [
-        {
-          "id": "tea",
-          "name": "Tea",
-          "price": 10,
-          "isVeg": true
-        }
+        { "id": "tea", "name": "Tea", "price": 10, "isVeg": true }
       ]
     }
   ]
 }
+
