@@ -1,1 +1,98 @@
 
+{
+  "sections": [
+    {
+      "title": "Chicken Starters",
+      "items": [
+        { "id": "chicken_65", "name": "Chicken 65 (4 pcs)", "price": 120, "isVeg": false },
+        { "id": "chicken_crispy", "name": "Chicken Crispy (B/L)", "price": 140, "isVeg": false },
+        { "id": "chicken_pakora", "name": "Chicken Pakora (6 pcs)", "price": 120, "isVeg": false },
+        { "id": "chicken_lamba", "name": "Chicken Lamba (6 pcs)", "price": 140, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Veg Starters",
+      "items": [
+        { "id": "veg_crispy", "name": "Veg Crispy", "price": 90, "isVeg": true },
+        { "id": "paneer_65", "name": "Paneer 65 (4 pcs)", "price": 110, "isVeg": true },
+        { "id": "paneer_pakora", "name": "Paneer Pakora (6 pcs)", "price": 110, "isVeg": true },
+        { "id": "paneer_lamba", "name": "Paneer Lamba (6 pcs)", "price": 140, "isVeg": true },
+        { "id": "finger_chips", "name": "Finger Chips", "price": 60, "isVeg": true }
+      ]
+    },
+    {
+      "title": "Tandoori Chicken Items",
+      "items": [
+        { "id": "chicken_tandoori_full", "name": "Chicken Tandoori (Full)", "price": 380, "isVeg": false },
+        { "id": "chicken_tandoori_half", "name": "Chicken Tandoori (Half)", "price": 200, "isVeg": false },
+        { "id": "chicken_tikka", "name": "Chicken Tikka (B/L)", "price": 180, "isVeg": false },
+        { "id": "chicken_reshmi_kebab", "name": "Chicken Reshmi Kebab (B/L)", "price": 180, "isVeg": false },
+        { "id": "chicken_haryali_kebab", "name": "Chicken Haryali Kebab (B/L)", "price": 180, "isVeg": false },
+        { "id": "chicken_sin_kebab", "name": "Chicken Sin Kebab (B/L)", "price": 160, "isVeg": false },
+        { "id": "chicken_malai_kebab", "name": "Chicken Malai Kebab (B/L)", "price": 190, "isVeg": false },
+        { "id": "chicken_tangri_kebab_4", "name": "Chicken Tangri Kebab (4 pcs)", "price": 300, "isVeg": false },
+        { "id": "chicken_tangri_kebab_2", "name": "Chicken Tangri Kebab (2 pcs)", "price": 150, "isVeg": false },
+        { "id": "chicken_banjara_kebab", "name": "Chicken Banjara Kebab (B/L)", "price": 190, "isVeg": false },
+        { "id": "tandoori_chicken_piece", "name": "Tandoori Chicken (1 pc)", "price": 100, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Tandoori Paneer Items",
+      "items": [
+        { "id": "paneer_tikka", "name": "Paneer Tikka", "price": 170, "isVeg": true },
+        { "id": "paneer_cheese_kebab", "name": "Paneer Cheese Kebab", "price": 190, "isVeg": true },
+        { "id": "paneer_haryali_kebab", "name": "Paneer Haryali Kebab", "price": 180, "isVeg": true }
+      ]
+    },
+    {
+      "title": "Roti & Paratha",
+      "items": [
+        { "id": "lachha_paratha", "name": "Lachha Paratha", "price": 18, "isVeg": true },
+        { "id": "lachha_paratha_atta", "name": "Lachha Paratha (Atta)", "price": 20, "isVeg": true },
+        { "id": "tawa_roti", "name": "Tawa Roti", "price": 7, "isVeg": true },
+        { "id": "butter_roti", "name": "Butter Roti", "price": 11, "isVeg": true },
+        { "id": "ghee_roti", "name": "Ghee Roti", "price": 11, "isVeg": true },
+        { "id": "plain_paratha", "name": "Plain Paratha", "price": 12, "isVeg": true },
+        { "id": "aloo_paratha", "name": "Aloo Paratha", "price": 18, "isVeg": true },
+        { "id": "onion_paratha", "name": "Onion Paratha", "price": 20, "isVeg": true },
+        { "id": "gobi_paratha", "name": "Gobi Paratha", "price": 30, "isVeg": true },
+        { "id": "paneer_paratha", "name": "Paneer Paratha", "price": 30, "isVeg": true },
+        { "id": "cheese_paratha", "name": "Cheese Paratha", "price": 40, "isVeg": true }
+      ]
+    },
+    {
+      "title": "Rice Items",
+      "items": [
+        { "id": "plain_rice", "name": "Plain Rice", "price": 30, "isVeg": true },
+        { "id": "veg_fried_rice", "name": "Veg Fried Rice", "price": 50, "isVeg": true },
+        { "id": "jeera_fried_rice", "name": "Jeera Fried Rice", "price": 50, "isVeg": true },
+        { "id": "tomato_rice", "name": "Tomato Rice", "price": 50, "isVeg": true },
+        { "id": "lemon_rice", "name": "Lemon Rice", "price": 50, "isVeg": true },
+        { "id": "mushroom_rice", "name": "Mushroom Rice", "price": 60, "isVeg": true },
+        { "id": "curd_rice", "name": "Curd Rice", "price": 50, "isVeg": true },
+        { "id": "egg_fried_rice", "name": "Egg Fried Rice", "price": 70, "isVeg": false },
+        { "id": "chicken_fried_rice", "name": "Chicken Fried Rice", "price": 75, "isVeg": false },
+        { "id": "mixed_fried_rice", "name": "Mixed Fried Rice", "price": 85, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Biryani",
+      "items": [
+        { "id": "veg_biryani", "name": "Veg Biryani", "price": 80, "isVeg": true },
+        { "id": "egg_biryani", "name": "Egg Biryani", "price": 90, "isVeg": false },
+        { "id": "chicken_biryani", "name": "Chicken Biryani", "price": 100, "isVeg": false }
+      ]
+    },
+    {
+      "title": "Dal",
+      "items": [
+        { "id": "dal_fry", "name": "Dal Fry", "price": 35, "isVeg": true },
+        { "id": "dal_butter_fry", "name": "Dal Butter Fry", "price": 40, "isVeg": true },
+        { "id": "tadka_dal", "name": "Tadka Dal", "price": 40, "isVeg": true },
+        { "id": "dal_makhani", "name": "Dal Makhani", "price": 50, "isVeg": true },
+        { "id": "egg_tarka", "name": "Egg Tarka", "price": 55, "isVeg": false },
+        { "id": "butter_tarka", "name": "Butter Tarka", "price": 50, "isVeg": true }
+      ]
+    }
+  ]
+}
